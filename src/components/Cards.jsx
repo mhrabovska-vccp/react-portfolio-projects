@@ -16,7 +16,7 @@ const Cards = () => {
                         <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> See </button>
                     </a>
                     <a href="https://github.com/mhrabovska-vccp/react-czechitas-projects" target="_blank"rel="noreferrer">
-                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> Github </button>
+                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> GitHub </button>
                     </a>
                 </div>
             </div>
@@ -29,7 +29,7 @@ const Cards = () => {
                         <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> See </button>
                     </a>
                     <a href="https://github.com/marhra/react2-homework2-pizza-zadani" target="_blank"rel="noreferrer">
-                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> Github </button>
+                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> GitHub </button>
                     </a>
                 </div>
             </div>
@@ -42,7 +42,7 @@ const Cards = () => {
                         <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> See </button>
                     </a>
                     <a href="https://github.com/mhrabovska-vccp/react-trivia-quiz" target="_blank"rel="noreferrer">
-                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> Github </button>
+                        <button className='bg-[#00df9a] w-[110px] rounded-md font-mdedium mx-autopx-6 py-3'> GitHub </button>
                     </a>
                 </div>
             </div>
